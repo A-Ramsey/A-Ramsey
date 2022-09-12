@@ -23,10 +23,12 @@
 ![editor](https://img.shields.io/badge/Editor-VIM-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
 ![editor](https://img.shields.io/badge/Editor-Intellij_IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=2bbc8a)
 ![tools](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![tools](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
+![tools](https://img.shields.io/badge/Tools-MYSQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![tools](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![tools](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
 ![tools](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
-![linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
+![linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
 
 ### About Me
