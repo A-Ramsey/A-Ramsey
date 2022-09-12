@@ -13,12 +13,12 @@
 ![kotlin](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)
 ![arduino](https://img.shields.io/badge/Code-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)
 <br>
-![html](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
-![css](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
+![html](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![css](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![sass](https://img.shields.io/badge/Web-SASS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
 ![foundation](https://img.shields.io/badge/Web-Foundation-informational?style=flat&logo=foundation&logoColor=white&color=2bbc8a)
 <br>
-![zsh](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=zsh&logoColor=white&color=2bbc8a)
+![zsh](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=shell&logoColor=white&color=2bbc8a)
 ![Editor](https://img.shields.io/badge/Editor-VIM-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
 ![Editor](https://img.shields.io/badge/Editor-Intellij_IDEA-informational?style=flat&logo=intellij&logoColor=white&color=2bbc8a)
 
