@@ -20,7 +20,7 @@
 <br>
 ![zsh](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=zsh&logoColor=white&color=2bbc8a)
 ![Editor](https://img.shields.io/badge/Editor-VIM-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
-![Editor](https://img.shields.io/badge/Editor-"Intellij IDEA"-informational?style=flat&logo="intellij idea"&logoColor=white&color=2bbc8a)
+![Editor](https://img.shields.io/badge/Editor-Intellij_IDEA-informational?style=flat&logo=intellij&logoColor=white&color=2bbc8a)
 
 
 ### About Me
