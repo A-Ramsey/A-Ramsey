@@ -1,6 +1,9 @@
 ![Header](./github-header-image.png)
 <a href="https://www.linkedin.com/in/aaronramseyaberystwyth/">
-  ![<Badge Name>](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+  ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+</a>
+<a href="">
+  ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 </a>
 
 ### Hi there 👋
