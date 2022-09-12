@@ -16,7 +16,7 @@
 ![html](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![css](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![sass](https://img.shields.io/badge/Web-SASS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
-![foundation](https://img.shields.io/badge/Web-Foundation-informational?style=flat&logo=foundationzurb&logoColor=white&color=2bbc8a)
+![foundation](https://img.shields.io/badge/Web-Foundation_Zurb-informational?style=flat&logo=website&logoColor=white&color=2bbc8a)
 <br>
 ![zsh](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=shell&logoColor=white&color=2bbc8a)
 ![Editor](https://img.shields.io/badge/Editor-VIM-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
