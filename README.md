@@ -9,6 +9,9 @@
 ### About Me
 <p>I am a passionate developer from the UK currently studying at <a href="https://www.aber.ac.uk/">Aberystwyth University</a> doing a Masters in Computer Science, in whick I undertook an industrial year placement in <a href="https://www.gloversure.co.uk">Gloversure</a>. Most of the development I do is as a Web Developer but I also enjoy working on other projects in other areas, such as working with Arduinos, Discord Bots and Apps.</p>
 
+### Outside of Development
+<p>I also enjoy photography and do a lot of it in my spare time which you can see over on my <a href="http://instagram.com/a.ramsey.photography">Instagram</a>. Along with this I do am a Scout Leader and spend time running or partaking in events with <a href="https://www.ssago.org">SSAGO</a>.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aaronedingale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaronedingale" height="30" width="40" /></a>
