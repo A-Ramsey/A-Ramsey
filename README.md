@@ -5,15 +5,6 @@
 
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Aaron</h1>
-<h3 align="center">A passionate fullstack developer from the United Kingdom</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-ramsey" alt="a-ramsey" /></a> </p>
-
-- 💬 Ask me about **php, Laravel**
-
-- ⚡ Fun fact **I love the outdoors**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aaronedingale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaronedingale" height="30" width="40" /></a>
