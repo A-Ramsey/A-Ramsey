@@ -14,6 +14,7 @@
 ![editor](https://img.shields.io/badge/Editor-Intellij_IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=2bbc8a)
 <br>
 <h3>Languages</h3>
+
 ![php](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
