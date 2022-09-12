@@ -6,8 +6,10 @@
   ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 </a>
 
+# Passionate VIM lover
+
 ### About Me
-<p>I am a passionate developer from the UK currently studying at <a href="https://www.aber.ac.uk/">Aberystwyth University</a> doing a Masters in Computer Science, in whick I undertook an industrial year placement in <a href="https://www.gloversure.co.uk">Gloversure</a>. Most of the development I do is as a Web Developer but I also enjoy working on other projects in other areas, such as working with Arduinos, Discord Bots and Apps.</p>
+<p>I am a passionate developer from the UK currently studying at <a href="https://www.aber.ac.uk/">Aberystwyth University</a> doing a Masters in Computer Science, in whick I undertook an industrial year placement in <a href="https://www.gloversure.co.uk">Gloversure</a>. Most of the development I do is as a Web Developer but I also enjoy working on other projects in other areas, such as working with Arduinos, Discord Bots and Apps. I love working in the command line with ZSH and using VIM when developing for the web.</p>
 
 ### Outside of Development
 <p>I also enjoy photography and do a lot of it in my spare time which you can see over on my <a href="http://instagram.com/a.ramsey.photography">Instagram</a>. Along with this I do am a Scout Leader and spend time running or partaking in events with <a href="https://www.ssago.org">SSAGO</a>.
