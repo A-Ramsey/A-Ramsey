@@ -6,7 +6,22 @@
   ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 </a-->
 
-![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![php](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![kotlin](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)
+![arduino](https://img.shields.io/badge/Code-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)
+<br>
+![html](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
+![css](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
+![sass](https://img.shields.io/badge/Web-SASS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
+![foundation](https://img.shields.io/badge/Web-Foundation-informational?style=flat&logo=foundation&logoColor=white&color=2bbc8a)
+<br>
+![zsh](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=zsh&logoColor=white&color=2bbc8a)
+![Editor](https://img.shields.io/badge/Editor-VIM-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
+![Editor](https://img.shields.io/badge/Editor-Intellij IDEA-informational?style=flat&logo=intellij idea&logoColor=white&color=2bbc8a)
+
 
 ### About Me
 <p>I am a passionate developer from the UK currently studying at <a href="https://www.aber.ac.uk/">Aberystwyth University</a> doing a Masters in Computer Science, in whick I undertook an industrial year placement in <a href="https://www.gloversure.co.uk">Gloversure</a>. Most of the development I do is as a Web Developer but I also enjoy working on other projects in other areas, such as working with Arduinos, Discord Bots and Apps. I love working in the command line with ZSH and using VIM when developing for the web.</p>
