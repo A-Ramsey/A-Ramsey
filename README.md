@@ -13,8 +13,6 @@
 ![editor](https://img.shields.io/badge/Editor-VIM-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
 ![editor](https://img.shields.io/badge/Editor-Intellij_IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=2bbc8a)
 <br>
-<h3>Languages</h3>
-
 ![php](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -22,14 +20,12 @@
 ![kotlin](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)
 ![arduino](https://img.shields.io/badge/Code-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)
 <br>
-<h3>Web</h3>
 ![html](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![css](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![sass](https://img.shields.io/badge/Web-SASS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
 ![foundation](https://img.shields.io/badge/Web-Foundation_Zurb-informational?style=flat&logo=web&logoColor=white&color=2bbc8a)
 ![laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 <br>
-<h3>Tools</h3>
 ![tools](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![tools](https://img.shields.io/badge/Tools-MYSQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![tools](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
