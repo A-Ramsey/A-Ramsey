@@ -17,10 +17,16 @@
 ![css](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![sass](https://img.shields.io/badge/Web-SASS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
 ![foundation](https://img.shields.io/badge/Web-Foundation_Zurb-informational?style=flat&logo=web&logoColor=white&color=2bbc8a)
+![laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 <br>
 ![zsh](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=shell&logoColor=white&color=2bbc8a)
-![Editor](https://img.shields.io/badge/Editor-VIM-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
-![Editor](https://img.shields.io/badge/Editor-Intellij_IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=2bbc8a)
+![editor](https://img.shields.io/badge/Editor-VIM-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
+![editor](https://img.shields.io/badge/Editor-Intellij_IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=2bbc8a)
+![tools](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![tools](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
+![tools](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
+![linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 
 
 ### About Me
