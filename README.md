@@ -6,8 +6,6 @@
   ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 </a-->
 
-<h2 style="text-align: centre;">Passionate VIM Lover</h2>
-
 ### About Me
 <p>I am a passionate developer from the UK currently studying at <a href="https://www.aber.ac.uk/">Aberystwyth University</a> doing a Masters in Computer Science, in whick I undertook an industrial year placement in <a href="https://www.gloversure.co.uk">Gloversure</a>. Most of the development I do is as a Web Developer but I also enjoy working on other projects in other areas, such as working with Arduinos, Discord Bots and Apps. I love working in the command line with ZSH and using VIM when developing for the web.</p>
 
