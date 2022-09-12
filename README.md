@@ -2,11 +2,12 @@
 <a href="https://www.linkedin.com/in/aaronramseyaberystwyth/">
   ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
-<a href="">
+<a href="https://stackoverflow.com/users/4729718/aaron-ramsey">
   ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 </a>
 
 ### Hi there 👋
+<p>I am a passionate developer from the UK currently studying at <a href="https://www.aber.ac.uk/">Aberystwyth University</a> doing a Masters in Computer Science, in whick I undertook an industrial year placement in <a href="https://www.gloversure.co.uk">Gloversure</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
