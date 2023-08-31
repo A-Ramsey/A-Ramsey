@@ -20,7 +20,7 @@
 ![arduino](https://img.shields.io/badge/Code-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)
 ![html](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![css](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![sass](https://img.shields.io/badge/Web-SASS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
+![sass](https://img.shields.io/badge/Web-SCSS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
 ![foundation](https://img.shields.io/badge/Web-Foundation_Zurb-informational?style=flat&logo=web&logoColor=white&color=2bbc8a)
 ![laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 ![tools](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
