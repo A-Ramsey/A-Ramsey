@@ -41,7 +41,7 @@
 <p align="left">
 <a href="https://twitter.com/aaronedingale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaronedingale" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aaronramseyaberystwyth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaronramseyaberystwyth" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/aaron-ramsey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aaron-ramsey" height="30" width="40" /></a>
+<!--a href="https://stackoverflow.com/users/aaron-ramsey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aaron-ramsey" height="30" width="40" /></a-->
 <a href="https://instagram.com/a.ramsey.photography" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.ramsey.photography" height="30" width="40" /></a>
 </p>
 
